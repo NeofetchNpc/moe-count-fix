@@ -23,8 +23,8 @@
 #### Deploying on your own server
 
 ```shell
-$ git clone https://github.com/journey-ad/Moe-Counter.git
-$ cd Moe-Counter
+$ git clone https://github.com/NeofetchNpc/moe-count.git
+$ cd moe-count
 $ yarn install
 
 $ yarn start
@@ -32,20 +32,19 @@ $ yarn start
 
 ### Configuration
 
-`config.yml`
+setup config.yaml
 
 ```yaml
 app:
-  site: https://count.getloli.com # your website
+  site: https://count.neastooid.xyz # your website must
   port: 3000
 
 db:
   type: mongodb # sqlite or mongodb
 ```
 
-If you use mongodb, you need to specify the environment variable `DB_URL`
-replit can use Secrets, [documentation](https://docs.replit.com/programming-ide/storing-sensitive-information-environment-variables)
-```
+fill .env with this, if the .env file is named .env.example immediately rename it to .env 
+```.env
 DB_URL="mongodb+srv://account:passwd@***.***.***.mongodb.net/db_count"
 ```
 
