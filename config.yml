@@ -1,6 +1,6 @@
 app:
-  # site: https://count.getloli.com # your website
+  site: https://count.getloli.com
   port: 3000
 
 db:
-  type: sqlite # sqlite or mongodb
+  type: mongodb # sqlite or mongodb
