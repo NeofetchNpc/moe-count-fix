@@ -1,7 +1,7 @@
 {
   "name": "moe-count-fix",
   "version": "1.0.0",
-  "description": "",
+  "description": "Visitors On Github",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
