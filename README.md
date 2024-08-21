@@ -56,6 +56,7 @@ const mongodbURL = 'mongodb+srv://localhost'
 
 *   [moebooru](https://github.com/moebooru/moebooru)
 *   [NeofetchNpc](https://github.com/NeofetchNpc)
+*   [journey-ad](https://github.com/journey-ad)
 
 ## License
 
