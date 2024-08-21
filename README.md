@@ -1,32 +1,24 @@
-# Moe-Counter
+# Moe-Counter-Fixxed
 
-多种风格可选的萌萌计数器
-
-![Moe-Counter](https://count.getloli.com/get/@Moe-counter.github)
+![Moe-Counter](https://count.neastooid.xyz/get/@demo?theme=asoul)
 
 <details>
 <summary>More theme</summary>
 
 ##### asoul
-![asoul](https://count.getloli.com/get/@demo?theme=asoul)
+![asoul](https://count.neastooid.xyz/get/@demo?theme=asoul)
 
 ##### moebooru
-![moebooru](https://count.getloli.com/get/@demo?theme=moebooru)
+![moebooru](https://count.neastooid.xyz/get/@demo?theme=moebooru)
 
 ##### rule34
-![Rule34](https://count.getloli.com/get/@demo?theme=rule34)
+![Rule34](https://count.neastooid.xyz/get/@demo?theme=rule34)
 
 ##### gelbooru
-![Gelbooru](https://count.getloli.com/get/@demo?theme=gelbooru)</details>
+![Gelbooru](https://count.neastooid.xyz/get/@demo?theme=gelbooru)</details>
 
 ## Demo
-[https://count.getloli.com](https://count.getloli.com)
-
-#### Run on Replit
-
-- Open the url [https://replit.com/@journeyad/Moe-Counter](https://replit.com/@journeyad/Moe-Counter)
-- Just hit the **Fork** button
-- And hit the **Run** button
+[https://count.getloli.com](https://count.neastooid.xyz)
 
 #### Deploying on your own server
 
