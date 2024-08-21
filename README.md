@@ -15,13 +15,17 @@
 ![Rule34](https://count.neastooid.xyz/get/@demo?theme=rule34)
 
 ##### gelbooru
-![Gelbooru](https://count.neastooid.xyz/get/@demo?theme=gelbooru)</details>
+![Gelbooru](https://count.neastooid.xyz/get/@demo?theme=gelbooru)
+</details>
 
-## Demo
-[https://count.getloli.com](https://count.neastooid.xyz)
+------------
 
-#### Deploying on your own server
+## Try It!
+[https://count.neastooid.xyz](https://count.neastooid.xyz)
 
+------------
+
+# Setup Deploying on your own server
 ```shell
 $ git clone https://github.com/NeofetchNpc/moe-count.git
 $ cd moe-count
@@ -30,10 +34,9 @@ $ yarn install
 $ yarn start
 ```
 
-### Configuration
+# Configuration
 
 setup config.yaml
-
 ```yaml
 app:
   site: https://count.neastooid.xyz # your website must
