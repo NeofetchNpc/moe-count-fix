@@ -1,6 +1,6 @@
 app:
   site: https://count.neastooid.xyz
-  port: 3000
+  port: 1959
 
 db:
   type: mongodb # sqlite or mongodb
