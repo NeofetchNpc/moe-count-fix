@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
 const schema = require('./schema')
 
 // the default mongodb url (local server)
-const mongodbURL = process.env.DB_URL || 'mongodb://127.0.0.1:27017'
+const mongodbURL = 'mongodb+srv://yusupkakuu:YusupK909@cluster0.rb7jho9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 
 mongoose.connect(mongodbURL, {
   useNewUrlParser: true,
