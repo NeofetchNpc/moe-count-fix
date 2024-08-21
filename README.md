@@ -22,10 +22,6 @@
 ## Demo
 [https://count.getloli.com](https://count.getloli.com)
 
-## Usage
-
-### Install
-
 #### Run on Replit
 
 - Open the url [https://replit.com/@journeyad/Moe-Counter](https://replit.com/@journeyad/Moe-Counter)
@@ -48,22 +44,15 @@ $ yarn start
 
 ```yaml
 app:
-  # site: https://count.getloli.com # your website
+  site: https://count.getloli.com # your website
   port: 3000
 
 db:
-  type: sqlite # sqlite or mongodb
+  type: mongodb # sqlite or mongodb
 ```
 
 If you use mongodb, you need to specify the environment variable `DB_URL`
-
-```shell
-# eg:
-export DB_URL=mongodb+srv://account:passwd@***.***.***.mongodb.net/db_count
-```
-
 replit can use Secrets, [documentation](https://docs.replit.com/programming-ide/storing-sensitive-information-environment-variables)
-
 ```
 DB_URL="mongodb+srv://account:passwd@***.***.***.mongodb.net/db_count"
 ```
