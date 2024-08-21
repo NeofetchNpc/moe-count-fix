@@ -1,5 +1,5 @@
 app:
-  site: https://count.getloli.com
+  site: https://count.neastooid.xyz
   port: 3000
 
 db:
