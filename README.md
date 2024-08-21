@@ -46,9 +46,10 @@ db:
   type: mongodb # sqlite or mongodb
 ```
 
-fill .env with this, if the .env file is named .env.example immediately rename it to .env 
-```.env
-DB_URL="mongodb+srv://account:passwd@***.***.***.mongodb.net/db_count"
+[mongodb.js](https://github.com/NeofetchNpc/moe-count-fix/blob/main/db/mongodb.js) replace this code with your mongodb! 
+```js
+// the default mongodb url (local server)
+const mongodbURL = 'mongodb+srv://localhost'
 ```
 
 ## Credits
