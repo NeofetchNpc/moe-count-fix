@@ -58,4 +58,4 @@ DB_URL="mongodb+srv://account:passwd@***.***.***.mongodb.net/db_count"
 
 ## License
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjourney-ad%2FMoe-Counter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjourney-ad%2FMoe-Counter?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNeofetchNpc%2Fmoe-count.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FNeofetchNpc%2Fmoe-count?ref=badge_large&issueType=license)
