@@ -59,6 +59,4 @@ const mongodbURL = 'mongodb+srv://localhost'
 *   [journey-ad](https://github.com/journey-ad)
 *   [Fuwn](https://github.com/Fuwn)
 
-## License
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNeofetchNpc%2Fmoe-count.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FNeofetchNpc%2Fmoe-count?ref=badge_large&issueType=license)
+------------
